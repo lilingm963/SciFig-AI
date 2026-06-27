@@ -5,22 +5,125 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>SciFig — AI Scientific Illustrator | Publication Figures</title>
   <meta name="description" content="SciFig is an AI scientific illustrator that turns text, sketches, references, PDFs, and photos into publication-ready, fully editable scientific figures." />
+  <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://lilingm963.github.io/SciFig-AI/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="SciFig" />
   <meta property="og:title" content="SciFig — AI Scientific Illustrator" />
   <meta property="og:description" content="From any input to a publication-ready scientific figure — editable at every step." />
   <meta property="og:url" content="https://lilingm963.github.io/SciFig-AI/" />
-  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://lilingm963.github.io/SciFig-AI/assets/graphical-abstract.webp" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="SciFig — AI Scientific Illustrator" />
+  <meta name="twitter:description" content="Turn text, sketches, references, PDFs, and photos into publication-ready scientific figures." />
+  <meta name="twitter:image" content="https://lilingm963.github.io/SciFig-AI/assets/graphical-abstract.webp" />
+
+  <!-- Structured data (GEO / AI search) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://scifig.ai/#organization",
+        "name": "SciFig",
+        "url": "https://scifig.ai/",
+        "logo": "https://scifig.ai/logos/logo-full-dark.svg",
+        "description": "AI scientific illustrator for researchers — publication-ready figures from text, sketches, references, PDFs, and photos.",
+        "sameAs": [
+          "https://github.com/lilingm963/SciFig-AI"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://scifig.ai/#website",
+        "name": "SciFig",
+        "url": "https://scifig.ai/",
+        "publisher": { "@id": "https://scifig.ai/#organization" }
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "SciFig",
+        "applicationCategory": "DesignApplication",
+        "operatingSystem": "Web",
+        "url": "https://scifig.ai/",
+        "description": "AI scientific illustrator that turns text, sketches, references, PDFs, and photos into publication-ready, fully editable scientific figures. Export to editable PPTX, layered SVG, and 8K PNG/JPG.",
+        "screenshot": "https://lilingm963.github.io/SciFig-AI/assets/graphical-abstract.webp",
+        "publisher": { "@id": "https://scifig.ai/#organization" },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD",
+          "description": "Free plan with daily credits, no credit card required."
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is SciFig?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SciFig is an AI scientific illustrator that turns text, sketches, references, PDFs, and photos into publication-ready scientific figures. It is built for scientific accuracy and editability, so every text label stays editable after generation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is SciFig free to use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. You can sign up for free with no credit card and get free daily credits — 50 per day on the free plan and 100 per day on paid plans — to start generating scientific figures."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What inputs can SciFig turn into a figure?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SciFig supports six input modes: plain-text descriptions, hand-drawn sketches, lab or microscopy photos, existing reference figures, PDF method sections, and multimodal enhancement of an existing figure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I export editable, publication-ready figures?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Every label stays editable after generation, and you can export to editable PPTX, layered SVG (Illustrator, Inkscape, PowerPoint compatible), and 8K PNG/JPG with AI super-resolution for journal print sizes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is SciFig suitable for journal submissions?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SciFig is designed for scientific accuracy and editability, so figures can be reviewed, corrected, and dropped straight into a manuscript. Authors should always verify labels, units, and journal formatting before submission."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
   <style>
     :root { --ink:#0f172a; --muted:#475569; --brand:#4f46e5; --bg:#f8fafc; --card:#fff; --line:#e2e8f0; }
     * { box-sizing:border-box; }
     body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; color:var(--ink); background:var(--bg); line-height:1.65; }
     .wrap { max-width:880px; margin:0 auto; padding:0 20px; }
-    header { text-align:center; padding:64px 20px 40px; }
+    header { text-align:center; padding:64px 20px 24px; }
     h1 { font-size:2.2rem; margin:0 0 12px; letter-spacing:-0.02em; }
-    .tagline { font-size:1.2rem; color:var(--muted); max-width:620px; margin:0 auto 28px; }
+    .tagline { font-size:1.2rem; color:var(--muted); max-width:620px; margin:0 auto 24px; }
+    .tldr { max-width:680px; margin:0 auto 28px; background:#eef2ff; border:1px solid #c7d2fe; border-radius:12px; padding:16px 20px; text-align:left; font-size:0.98rem; }
+    .tldr strong { color:var(--brand); }
     .cta { display:inline-block; background:var(--brand); color:#fff; text-decoration:none; padding:14px 28px; border-radius:10px; font-weight:600; margin:6px; }
     .cta.secondary { background:#fff; color:var(--brand); border:1px solid var(--brand); }
     h2 { font-size:1.5rem; margin:48px 0 16px; letter-spacing:-0.01em; }
+    h3 { font-size:1.1rem; margin:24px 0 6px; }
     p { color:var(--ink); }
     a { color:var(--brand); }
     .grid { display:grid; grid-template-columns:repeat(2,1fr); gap:16px; margin:24px 0; }
@@ -29,6 +132,8 @@
     th,td { text-align:left; padding:12px 14px; border-bottom:1px solid var(--line); font-size:0.96rem; }
     th { background:#eef2ff; }
     ul { padding-left:1.2em; }
+    .faq h3 { margin-top:22px; }
+    .faq p { margin-top:4px; color:var(--muted); }
     footer { text-align:center; color:var(--muted); padding:48px 20px; font-size:0.9rem; }
     .figcap { text-align:center; color:var(--muted); font-size:0.85rem; margin-top:-8px; }
   </style>
@@ -37,62 +142,81 @@
   <header>
     <div class="wrap">
       <h1>SciFig — AI Scientific Illustrator</h1>
-      <p class="tagline">From any input to a publication-ready scientific figure — editable at every step. Turn text, sketches, references, PDFs, and photos into journal-ready figures in minutes.</p>
-      <a class="cta" href="https://scifig.ai/?ref=github-pages">Start for Free</a>
-      <a class="cta secondary" href="https://scifig.ai/inspiration?ref=github-pages">Browse Inspiration</a>
+      <p class="tagline">From any input to a publication-ready scientific figure — editable at every step.</p>
+      <p class="tldr"><strong>TL;DR:</strong> SciFig is a free AI scientific illustrator for researchers. Describe an idea, upload a sketch, reference figure, PDF, or photo, and it generates a clean, journal-ready figure where every label stays editable — exportable to PPTX, layered SVG, and 8K PNG/JPG.</p>
+      <a class="cta" href="https://scifig.ai/?ref=github-pages" title="Start using SciFig for free">Start for Free</a>
+      <a class="cta secondary" href="https://scifig.ai/inspiration?ref=github-pages" title="Browse the SciFig inspiration gallery">Browse Inspiration</a>
     </div>
   </header>
 
   <main class="wrap">
     <h2>What is SciFig?</h2>
-    <p><a href="https://scifig.ai/?ref=github-pages"><strong>SciFig</strong></a> is an AI scientific illustrator built for researchers, educators, and students who need <strong>publication-ready figures</strong> but don't want to spend hours in Illustrator or hire a designer for a single graphic. Describe an idea, upload a rough sketch, drop in a reference figure or a PDF method section — SciFig turns it into a clean, accurate, journal-ready figure where <strong>every text label stays editable</strong>.</p>
+    <p><a href="https://scifig.ai/?ref=github-pages" title="SciFig — AI scientific illustrator"><strong>SciFig</strong></a> is an AI scientific illustrator built for researchers, educators, and students who need <strong>publication-ready figures</strong> but don't want to spend hours in Illustrator or hire a designer for a single graphic. Describe an idea, upload a rough sketch, drop in a reference figure or a PDF method section — SciFig turns it into a clean, accurate, journal-ready figure where <strong>every text label stays editable</strong>.</p>
     <p>Unlike general-purpose AI image generators that hallucinate anatomy and scramble labels, SciFig is tuned for <strong>scientific accuracy and editability</strong>, so the figure you generate is one you can defend in peer review.</p>
 
     <h2>Six input modes, one workflow</h2>
     <table>
       <tr><th>Mode</th><th>What it does</th></tr>
-      <tr><td><a href="https://scifig.ai/app/text-to-figure?ref=github-pages">Text to Figure</a></td><td>Describe a mechanism or workflow in plain language → structured figure</td></tr>
-      <tr><td><a href="https://scifig.ai/app/sketch-to-figure?ref=github-pages">Sketch to Figure</a></td><td>Hand-drawn doodle → polished scientific figure</td></tr>
-      <tr><td><a href="https://scifig.ai/app/photo-to-figure?ref=github-pages">Photo to Figure</a></td><td>Lab or microscopy photo → clean schematic</td></tr>
-      <tr><td><a href="https://scifig.ai/app/reference-to-figure?ref=github-pages">Reference to Figure</a></td><td>Existing figure as reference → your own variant</td></tr>
-      <tr><td><a href="https://scifig.ai/app/pdf-to-figure?ref=github-pages">PDF to Figure</a></td><td>Paper method/results section → visualized figure</td></tr>
-      <tr><td><a href="https://scifig.ai/app/figure-enhancer?ref=github-pages">Figure Enhancer</a></td><td>Multimodal enhance — refine, restyle, upgrade</td></tr>
+      <tr><td><a href="https://scifig.ai/app/text-to-figure?ref=github-pages" title="SciFig Text to Figure tool">Text to Figure</a></td><td>Describe a mechanism or workflow in plain language → structured figure</td></tr>
+      <tr><td><a href="https://scifig.ai/app/sketch-to-figure?ref=github-pages" title="SciFig Sketch to Figure tool">Sketch to Figure</a></td><td>Hand-drawn doodle → polished scientific figure</td></tr>
+      <tr><td><a href="https://scifig.ai/app/photo-to-figure?ref=github-pages" title="SciFig Photo to Figure tool">Photo to Figure</a></td><td>Lab or microscopy photo → clean schematic</td></tr>
+      <tr><td><a href="https://scifig.ai/app/reference-to-figure?ref=github-pages" title="SciFig Reference to Figure tool">Reference to Figure</a></td><td>Existing figure as reference → your own variant</td></tr>
+      <tr><td><a href="https://scifig.ai/app/pdf-to-figure?ref=github-pages" title="SciFig PDF to Figure tool">PDF to Figure</a></td><td>Paper method/results section → visualized figure</td></tr>
+      <tr><td><a href="https://scifig.ai/app/figure-enhancer?ref=github-pages" title="SciFig Figure Enhancer tool">Figure Enhancer</a></td><td>Multimodal enhance — refine, restyle, upgrade</td></tr>
     </table>
-    <p>Need pixel-level control? The <a href="https://scifig.ai/app/vector-canvas?ref=github-pages">Vector Canvas</a> converts any figure into a fully editable, layered vector.</p>
+    <p>Need pixel-level control? The <a href="https://scifig.ai/app/vector-canvas?ref=github-pages" title="SciFig Vector Canvas — figure to editable SVG">Vector Canvas</a> converts any figure into a fully editable, layered vector.</p>
 
     <h2>Built for publication</h2>
+    <h3>Editable at every step</h3>
     <ul>
       <li><strong>Every text editable</strong> after generation — no re-prompting</li>
       <li><strong>Editable PPTX</strong> export with text layers intact</li>
+    </ul>
+    <h3>Journal-grade export</h3>
+    <ul>
       <li><strong>Layered SVG</strong> vectors — Illustrator, Inkscape, PowerPoint compatible</li>
       <li><strong>8K PNG / JPG</strong> with AI super-resolution for print sizes</li>
     </ul>
 
     <h2>Figures researchers create with SciFig</h2>
     <div class="grid">
-      <img src="assets/graphical-abstract.webp" alt="AI-generated graphical abstract figure created with SciFig" />
-      <img src="assets/mechanism-pathway.webp" alt="AI-generated mechanism and pathway scientific figure created with SciFig" />
-      <img src="assets/micro-structure.webp" alt="AI-generated micro-structure scientific figure created with SciFig" />
-      <img src="assets/cross-section.webp" alt="AI-generated cross-section anatomy figure created with SciFig" />
+      <img src="assets/graphical-abstract.webp" alt="AI-generated graphical abstract figure created with SciFig" loading="lazy" />
+      <img src="assets/mechanism-pathway.webp" alt="AI-generated mechanism and pathway scientific figure created with SciFig" loading="lazy" />
+      <img src="assets/micro-structure.webp" alt="AI-generated micro-structure scientific figure created with SciFig" loading="lazy" />
+      <img src="assets/cross-section.webp" alt="AI-generated cross-section anatomy figure created with SciFig" loading="lazy" />
     </div>
-    <p class="figcap">Browse hundreds more in the <a href="https://scifig.ai/inspiration?ref=github-pages">SciFig Inspiration Gallery</a>.</p>
+    <p class="figcap">Browse hundreds more in the <a href="https://scifig.ai/inspiration?ref=github-pages" title="SciFig inspiration gallery">SciFig Inspiration Gallery</a>.</p>
 
     <h2>Get started</h2>
-    <p>Visit <a href="https://scifig.ai/?ref=github-pages">scifig.ai</a>, sign up free (no credit card), and get free daily credits — 50/day on the free plan, 100/day on paid plans. See <a href="https://scifig.ai/pricing?ref=github-pages">pricing</a> for plans and credit packs.</p>
+    <p>Visit <a href="https://scifig.ai/?ref=github-pages" title="Open scifig.ai">scifig.ai</a>, sign up free (no credit card), and get free daily credits — 50/day on the free plan, 100/day on paid plans. See <a href="https://scifig.ai/pricing?ref=github-pages" title="SciFig pricing and credit packs">pricing</a> for plans and credit packs.</p>
+
+    <h2 id="faq">Frequently asked questions</h2>
+    <div class="faq">
+      <h3>What is SciFig?</h3>
+      <p>SciFig is an AI scientific illustrator that turns text, sketches, references, PDFs, and photos into publication-ready scientific figures. It is built for scientific accuracy and editability, so every text label stays editable after generation.</p>
+      <h3>Is SciFig free to use?</h3>
+      <p>Yes. You can sign up for free with no credit card and get free daily credits — 50 per day on the free plan and 100 per day on paid plans — to start generating figures.</p>
+      <h3>What inputs can SciFig turn into a figure?</h3>
+      <p>SciFig supports six input modes: plain-text descriptions, hand-drawn sketches, lab or microscopy photos, existing reference figures, PDF method sections, and multimodal enhancement of an existing figure.</p>
+      <h3>Can I export editable, publication-ready figures?</h3>
+      <p>Yes. Every label stays editable, and you can export to editable PPTX, layered SVG (Illustrator, Inkscape, PowerPoint compatible), and 8K PNG/JPG with AI super-resolution for journal print sizes.</p>
+      <h3>Is SciFig suitable for journal submissions?</h3>
+      <p>SciFig is designed for scientific accuracy and editability, so figures can be reviewed, corrected, and dropped into a manuscript. Always verify labels, units, and journal formatting before submission.</p>
+    </div>
 
     <h2>Explore</h2>
     <ul>
-      <li><a href="https://scifig.ai/?ref=github-pages">Website — scifig.ai</a></li>
-      <li><a href="https://scifig.ai/inspiration?ref=github-pages">Inspiration Gallery</a></li>
-      <li><a href="https://scifig.ai/models?ref=github-pages">AI Models</a></li>
-      <li><a href="https://scifig.ai/tutorials?ref=github-pages">Tutorials</a></li>
-      <li><a href="https://scifig.ai/blog?ref=github-pages">Blog</a></li>
-      <li><a href="https://scifig.ai/pricing?ref=github-pages">Pricing</a></li>
+      <li><a href="https://scifig.ai/?ref=github-pages" title="SciFig website">Website — scifig.ai</a></li>
+      <li><a href="https://scifig.ai/inspiration?ref=github-pages" title="SciFig inspiration gallery">Inspiration Gallery</a></li>
+      <li><a href="https://scifig.ai/models?ref=github-pages" title="SciFig AI models">AI Models</a></li>
+      <li><a href="https://scifig.ai/tutorials?ref=github-pages" title="SciFig tutorials">Tutorials</a></li>
+      <li><a href="https://scifig.ai/blog?ref=github-pages" title="SciFig blog">Blog</a></li>
+      <li><a href="https://scifig.ai/pricing?ref=github-pages" title="SciFig pricing">Pricing</a></li>
     </ul>
   </main>
 
   <footer>
-    <p><a href="https://scifig.ai/?ref=github-pages"><strong>Try SciFig Free →</strong></a></p>
+    <p><a href="https://scifig.ai/?ref=github-pages" title="Try SciFig free"><strong>Try SciFig Free →</strong></a></p>
     <p>SciFig is an AI scientific illustrator. © SciFig.</p>
   </footer>
 </body>

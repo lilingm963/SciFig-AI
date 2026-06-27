@@ -1,0 +1,29 @@
+# SciFig
+
+> SciFig (https://scifig.ai) is a free AI scientific illustrator for researchers. It turns text, sketches, references, PDFs, and photos into publication-ready scientific figures where every text label stays editable. Built for scientific accuracy and editability — not a general-purpose image generator.
+
+## What SciFig does
+
+- Six input modes: text, sketch, photo, reference figure, PDF method section, and multimodal figure enhancement.
+- Output is editable: every label stays editable after generation.
+- Export to editable PPTX, layered SVG (Illustrator / Inkscape / PowerPoint compatible), and 8K PNG/JPG with AI super-resolution.
+- For: researchers, graduate students, educators, journal editors, and science communicators.
+- Free to start: sign up with no credit card, 50 free daily credits (free plan) / 100 (paid plans).
+
+## Tools
+
+- [Text to Figure](https://scifig.ai/app/text-to-figure): describe a mechanism or workflow in plain language.
+- [Sketch to Figure](https://scifig.ai/app/sketch-to-figure): turn a hand-drawn sketch into a polished figure.
+- [Photo to Figure](https://scifig.ai/app/photo-to-figure): turn a lab or microscopy photo into a clean schematic.
+- [Reference to Figure](https://scifig.ai/app/reference-to-figure): use an existing figure as a style/structure reference.
+- [PDF to Figure](https://scifig.ai/app/pdf-to-figure): visualize a paper's method or results section.
+- [Figure Enhancer](https://scifig.ai/app/figure-enhancer): refine, restyle, and upgrade an existing figure.
+- [Vector Canvas](https://scifig.ai/app/vector-canvas): convert any figure into a fully editable, layered vector.
+
+## Resources
+
+- [Website](https://scifig.ai)
+- [Inspiration Gallery](https://scifig.ai/inspiration)
+- [AI Models](https://scifig.ai/models)
+- [Tutorials](https://scifig.ai/tutorials)
+- [Pricing](https://scifig.ai/pricing)
