@@ -1,0 +1,1 @@
+Crea un proceso didáctico: recibir datos sintéticos → validar nombres de columnas y unidades → revisar valores ausentes → resumir → revisar gráfico → compartir. Si falla la validación, vuelve a la entrada. Etiqueta las ramas y conserva la revisión antes de compartir.

@@ -1,0 +1,1 @@
+Erstellen Sie einen Lehrablauf: synthetischen Datensatz empfangen → Spaltennamen und Einheiten prüfen → fehlende Werte prüfen → zusammenfassen → Diagramm prüfen → teilen. Bei fehlgeschlagener Validierung zur Eingabe zurückkehren. Beschriften Sie die Zweige und behalten Sie die Prüfung vor dem Teilen bei.

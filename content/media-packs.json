@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-en.zip",
+    "bytes": 27936918,
+    "sha256": "74ffb11353f44a98313df4d6a0b17a1840fd4aa727c90a329a5314aa45466b9a"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-zh.zip",
+    "bytes": 28000035,
+    "sha256": "62ce5fd037b5691ae68473cf1527d4f2a48931443f7c13f848783d43b7e310c5"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-fr.zip",
+    "bytes": 27910110,
+    "sha256": "219e36a35d31c9a9a02a03f4bcd6d66214cd1276c504a959d980e05d0e7a85b8"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-es.zip",
+    "bytes": 27942198,
+    "sha256": "eb1370a56dbe1967d1e1972346c6dfe099a995dfb6b249a7adf52866214a87ff"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-it.zip",
+    "bytes": 27901041,
+    "sha256": "d0ee9a94b289e0d0e02f0d03d10571d9fd6d3a27fde15ee77fcf1812ea6f4efe"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-de.zip",
+    "bytes": 27895951,
+    "sha256": "ed34c8d110a399e877b3e02605f36c4f4dd2ea74f301d89acb0bac8f188050b7"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-ja.zip",
+    "bytes": 27984612,
+    "sha256": "629d5ac4f32e0d46e63059ecddad8252fb85e2364eca1a38e39d9c6b8f26e5c4"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-media-pack-ko.zip",
+    "bytes": 28005845,
+    "sha256": "62a198ebd8d7511e195de0338ad8475f5c199363edd5f157141989cf46fbf289"
+  },
+  {
+    "path": "/files/media-kit/2026-10/scifig-brand-essentials.zip",
+    "bytes": 8480051,
+    "sha256": "a549bf75924280c32da673e3fbe86bad20b8072472b3ab0764f7c97ce310fd19"
+  }
+]

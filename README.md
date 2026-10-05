@@ -1,111 +1,85 @@
-<div align="center">
+# SciFig
 
-# SciFig — AI Scientific Illustrator
+[English](README.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-**From any input to a publication-ready scientific figure — editable at every step.**
+## Ideas, data and research workflows — made visual.
 
-Turn text, sketches, references, PDFs, and photos into publication-ready scientific figures in minutes, not hours.
+SciFig brings Illustration, DataChart and FlowChart into one platform for scientific communication. Explore the workflows, try the examples and find reusable public resources.
 
-[![Website](https://img.shields.io/badge/Website-scifig.ai-4f46e5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scifig.ai/?ref=github)
-[![Start for Free](https://img.shields.io/badge/Start_for_Free-No_credit_card-16a34a?style=for-the-badge)](https://scifig.ai/?ref=github)
-[![Inspiration Gallery](https://img.shields.io/badge/Browse-Inspiration_Gallery-ec4899?style=for-the-badge)](https://scifig.ai/inspiration?ref=github)
+[Open SciFig](https://scifig.ai/?ref=github-resources) · [View all tutorials](https://scifig.ai/tutorials?ref=github-resources) · [Official media library](docs/media-library.md)
 
-</div>
+## Three workspaces
 
----
+### Illustration
 
-## What is SciFig?
+Turn descriptions and reference material into scientific illustrations, then refine the result with the available editing tools.
 
-[**SciFig**](https://scifig.ai/?ref=github) is an AI scientific illustrator that helps researchers, educators, and students create publication-ready figures **without any design skills**. Describe an idea, upload a rough sketch, drop in a reference figure or a PDF method section — SciFig turns it into a clean, journal-ready graphic, and **every text label and element stays editable** afterwards.
+[![Illustration complete workflow](assets/previews/illustration.jpg)](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-illustration-tutorial.mp4)
 
-> No more spending hours in Illustrator. No more hiring a designer for a single figure. No more fighting with PowerPoint shapes the night before a submission deadline.
+[See the complete workflow](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-illustration-tutorial.mp4) · [View all tutorials](https://scifig.ai/tutorials?ref=github-resources)
 
-Most general-purpose AI image tools hallucinate anatomy, invent mechanisms, and scramble labels. SciFig is built specifically for **scientific accuracy and editability** — so the figure you generate is one you can actually defend in review and drop straight into a manuscript.
+### DataChart
 
-## Six input modes → one publication-ready figure
+Build charts and graphs from tabular inputs and refine their presentation. Check values, units, axes and legends against your source data.
 
-SciFig meets you wherever your idea starts. Each mode is a dedicated tool:
+[![DataChart complete workflow](assets/previews/datachart.jpg)](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-datachart-tutorial.mp4)
 
-| Input mode | What it does | Try it |
-|---|---|---|
-| **Text to Figure** | Describe a mechanism, pathway, or workflow in plain language → get a structured scientific figure | [scifig.ai/app/text-to-figure](https://scifig.ai/app/text-to-figure?ref=github) |
-| **Sketch to Figure** | Upload a hand-drawn doodle or whiteboard photo → AI redraws it as a polished figure | [scifig.ai/app/sketch-to-figure](https://scifig.ai/app/sketch-to-figure?ref=github) |
-| **Photo to Figure** | Turn a lab photo or microscopy image into a clean schematic illustration | [scifig.ai/app/photo-to-figure](https://scifig.ai/app/photo-to-figure?ref=github) |
-| **Reference to Figure** | Provide an existing figure as a style/structure reference → generate your own variant | [scifig.ai/app/reference-to-figure](https://scifig.ai/app/reference-to-figure?ref=github) |
-| **PDF to Figure** | Drop in a paper's method or results section → extract and visualize it as a figure | [scifig.ai/app/pdf-to-figure](https://scifig.ai/app/pdf-to-figure?ref=github) |
-| **Figure Enhancer** | Multimodal enhance — refine, restyle, and upgrade an existing figure | [scifig.ai/app/figure-enhancer](https://scifig.ai/app/figure-enhancer?ref=github) |
+[See the complete workflow](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-datachart-tutorial.mp4) · [View all tutorials](https://scifig.ai/tutorials?ref=github-resources)
 
-And when you need pixel-level control, the [**Vector Canvas**](https://scifig.ai/app/vector-canvas?ref=github) converts any figure into a fully editable, layered vector you can re-label and recolor.
+### FlowChart
 
-## Built for publication, not just pretty pictures
+Visualize research processes and structured workflows, then adjust nodes and relationships in the editor.
 
-- **Every text editable** — labels, annotations, and captions remain editable after generation, no re-prompting required
-- **Editable PPTX export** — drop the figure into slides with text layers intact
-- **Layered SVG vectors** — infinitely scalable, compatible with Adobe Illustrator, Inkscape, and PowerPoint
-- **8K PNG / JPG** — AI super-resolution keeps figures crisp at journal print sizes
-- **6 publication styles** — flat illustration, schematic, isometric, and more, tuned for scientific communication
+[![FlowChart complete workflow](assets/previews/flowchart.jpg)](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-flowchart-tutorial.mp4)
 
-## See what researchers create
+[See the complete workflow](https://cdn.scifig.ai/images/media-kit/2026-10/videos/v4-flowchart-tutorial.mp4) · [View all tutorials](https://scifig.ai/tutorials?ref=github-resources)
 
-Real figures generated with SciFig, across disciplines:
+Review scientific meaning, labels and sources before sharing. Editing and export options depend on the workspace and workflow; the tutorials show specific examples.
 
-| Graphical abstracts | Mechanisms & pathways |
-|---|---|
-| [![Graphical abstract figure](assets/graphical-abstract.webp)](https://scifig.ai/inspiration?ref=github) | [![Mechanism pathway figure](assets/mechanism-pathway.webp)](https://scifig.ai/inspiration?ref=github) |
+## Try three examples
 
-| Micro-structures | Cross-sections & anatomy |
-|---|---|
-| [![Micro-structure figure](assets/micro-structure.webp)](https://scifig.ai/inspiration?ref=github) | [![Cross-section anatomy figure](assets/cross-section.webp)](https://scifig.ai/inspiration?ref=github) |
+These inputs are synthetic teaching examples, not experimental evidence. The tutorial previews demonstrate separate product workflows; they are not outputs generated from these example inputs.
 
-| Process & workflow | Journal covers |
-|---|---|
-| [![Process workflow figure](assets/process-workflow.webp)](https://scifig.ai/inspiration?ref=github) | [![Journal cover figure](assets/journal-cover.webp)](https://scifig.ai/inspiration?ref=github) |
+[Try three examples](examples/README.md)
 
-| Systems & networks | Lab apparatus |
-|---|---|
-| [![Systems network figure](assets/systems-network.webp)](https://scifig.ai/inspiration?ref=github) | [![Lab apparatus figure](assets/lab-apparatus.webp)](https://scifig.ai/inspiration?ref=github) |
+## Public resources
 
-> Browse hundreds more in the [**SciFig Inspiration Gallery**](https://scifig.ai/inspiration?ref=github) — organized by graphical abstracts, mechanisms & pathways, micro-structures, cross-sections, process & workflow, journal covers, systems & networks, environments & ecologies, and lab apparatus.
+### Poster and presentation templates
 
-## Who is it for?
+Browse 154 PPTX files by print size or presentation purpose. Preview the layouts and check the template license before reuse.
 
-- **Researchers & scientists** — figures for papers, grants, and conference posters
-- **Graduate students** — thesis figures, defense slides, and technical roadmaps
-- **Educators** — diagrams and visual explainers for teaching
-- **Journal editors & science communicators** — TOC graphics, journal covers, and outreach visuals
+[Poster and presentation templates](https://github.com/scifig-ai/scientific-poster-and-presentation-templates)
 
-## Getting started
+### Scientific Figure Skill
 
-1. Visit [**scifig.ai**](https://scifig.ai/?ref=github)
-2. Sign up for free — no credit card required
-3. Get **free daily credits** (50/day on the free plan, 100/day on paid plans) to start generating
-4. Pick an input mode and create your first figure
+Structure a figure and prepare prompts in an agent. Generation uses the agent’s available image tool or your configured image API; this Skill does not call a SciFig API.
 
-See [**pricing**](https://scifig.ai/pricing?ref=github) for plans and credit packs.
+[Scientific Figure Skill](https://github.com/lilingm963/scifig-ai-scientific-figure-skill)
 
-## Learn more
+### Official media library
 
-- 🌐 **Website**: [scifig.ai](https://scifig.ai/?ref=github)
-- 🎨 **Inspiration Gallery**: [scifig.ai/inspiration](https://scifig.ai/inspiration?ref=github)
-- 🧠 **AI Models**: [scifig.ai/models](https://scifig.ai/models?ref=github)
-- 📚 **Tutorials**: [scifig.ai/tutorials](https://scifig.ai/tutorials?ref=github)
-- ✍️ **Blog**: [scifig.ai/blog](https://scifig.ai/blog?ref=github)
-- 💲 **Pricing**: [scifig.ai/pricing](https://scifig.ai/pricing?ref=github)
+35 finished videos, localized packs, captions and product previews. Files stay on the official CDN; this repository provides the catalog and usage guidance.
 
-## Agent / Codex skill
+[Official media library](docs/media-library.md)
 
-Using Codex, Claude Code, or another agent? Install the companion
-[**SciFig Scientific Figure skill**](https://github.com/lilingm963/scifig-ai-scientific-figure-skill)
-to turn research ideas into figure prompts and drafts directly inside your agent workflow.
+## The person behind SciFig
 
-## License
+Alex Carter is SciFig’s founder and independent developer. His public work includes the platform, research poster and presentation templates, practical guides and this resource collection. See About for the editorial standards and contact details.
 
-SciFig is a commercial SaaS product. This repository is the public-facing project page and issue tracker. Open an issue for bug reports, feature requests, or feedback.
+[About and editorial standards](https://scifig.ai/about?ref=github-resources)
 
----
+## Licenses and usage
 
-<div align="center">
+SciFig is a commercial platform. This repository is a public resource hub, not the product source code. Media, templates and the MIT-licensed Skill have separate terms; none grants blanket rights to the other materials.
 
-**[Try SciFig Free →](https://scifig.ai/?ref=github)** · Made for researchers who'd rather do research than fight with vector tools.
+[Media material usage terms](https://scifig.ai/media-kit?ref=github-resources#usage) · [MIT](https://github.com/lilingm963/scifig-ai-scientific-figure-skill/blob/main/LICENSE) · [Poster and presentation templates](https://github.com/scifig-ai/scientific-poster-and-presentation-templates/blob/main/LICENSE)
 
-</div>
+## Feedback and requests
+
+Open an issue for resource corrections or requests. Do not post private research data or account details. For account help, use the official contact page.
+
+[Feedback and requests](https://github.com/lilingm963/SciFig-AI/issues) · [Feedback and requests](https://scifig.ai/contact?ref=github-resources)
+
+## Resource updates
+
+October 2026: refreshed the public introduction for three workspaces; organized 35 videos and eight-language captions; added three synthetic teaching examples and linked the public resources.

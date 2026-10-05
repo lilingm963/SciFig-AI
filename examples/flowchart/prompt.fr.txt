@@ -1,0 +1,1 @@
+Créez un parcours pédagogique : recevoir un jeu de données fictif → vérifier les colonnes et unités → examiner les valeurs manquantes → résumer → vérifier le graphique → partager. Si la validation échoue, revenir à l’entrée. Libellez les branches et conservez la vérification avant le partage.

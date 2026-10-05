@@ -1,0 +1,1 @@
+Crea un flusso didattico: ricevere dati sintetici → verificare nomi delle colonne e unità → controllare valori mancanti → riepilogare → verificare il grafico → condividere. Se la verifica fallisce, torna all’input. Etichetta i rami e mantieni la revisione prima della condivisione.

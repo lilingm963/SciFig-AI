@@ -1,0 +1,1 @@
+Create a teaching workflow: receive synthetic dataset → validate column names and units → review missing values → summarize → review chart → share. If validation fails, return to the input. Label the decision branches and keep the review step before sharing.

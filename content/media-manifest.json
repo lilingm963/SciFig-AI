@@ -1,0 +1,1327 @@
+{
+  "revision": "2026-10",
+  "videos": [
+    {
+      "path": "/images/media-kit/2026-10/videos/t1-text.mp4",
+      "bytes": 2903978,
+      "sha256": "a7ea997691a069a2c577fb1ffe99ca28daf34ad28dc0ad1ff25d624841cf7621",
+      "id": "t1-text",
+      "name": "text",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 25.2,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t1-text.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t2-enhancer.mp4",
+      "bytes": 2504279,
+      "sha256": "69d51b335c3b12f019c8fe0cb98fe7c3022d2cdd986644a6927f950e8721c306",
+      "id": "t2-enhancer",
+      "name": "enhancer",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 22.13,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t2-enhancer.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t3-sketch.mp4",
+      "bytes": 2487889,
+      "sha256": "bdc2e4a2929d9d11e0ac659c2fd854e8f220d909e88e0f8dad975182fcaa0be9",
+      "id": "t3-sketch",
+      "name": "sketch",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 22.0,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t3-sketch.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t4-reference.mp4",
+      "bytes": 2947917,
+      "sha256": "e72633a3c77f71d7ebb4aaa813f809e7bcfd1946d0f041ab433a3c05ae62afb1",
+      "id": "t4-reference",
+      "name": "reference",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 30.3,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t4-reference.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t5-pdf.mp4",
+      "bytes": 2905335,
+      "sha256": "aa1e78adfcfcc0852a687a5fc10605ca2a058f2d568456d1616102a8eb72850f",
+      "id": "t5-pdf",
+      "name": "pdf",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 29.97,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t5-pdf.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t6-photo.mp4",
+      "bytes": 2740394,
+      "sha256": "8c9aefc7197b874c17d483529316113edfe7545f3aacd738a4ea3cbb4fa6bbbb",
+      "id": "t6-photo",
+      "name": "photo",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 24.27,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t6-photo.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t7-canvas-tutorial.mp4",
+      "bytes": 2899500,
+      "sha256": "ce01bd93f158b9ab3759cfeb392cd71aef00a95a10c70d87d58af141f306c2e3",
+      "id": "t7-canvas-tutorial",
+      "name": "canvasTutorial",
+      "category": "inputModes",
+      "locale": null,
+      "duration": 26.93,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/t7-canvas-tutorial.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-de.mp4",
+      "bytes": 5465899,
+      "sha256": "d1c2a459c0c7f86b05c0004222bc1103eda95488f259888cc5a35563af18f4f4",
+      "id": "v1-brand-de",
+      "name": "brand",
+      "category": "brand",
+      "locale": "de",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-en.mp4",
+      "bytes": 5515536,
+      "sha256": "3e97e75728693bbe9b659b4e1a9e30b4397a23abacc4574f6028c8dab4b94f6f",
+      "id": "v1-brand-en",
+      "name": "brand",
+      "category": "brand",
+      "locale": "en",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-es.mp4",
+      "bytes": 5499256,
+      "sha256": "9c290fefeff1e9136f624801263111924a299848c9d9bdf003e53b1e49a2058a",
+      "id": "v1-brand-es",
+      "name": "brand",
+      "category": "brand",
+      "locale": "es",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-fr.mp4",
+      "bytes": 5484558,
+      "sha256": "c5f86075c5641648abc5a4f78df196891ed13183b12dafb6532dcd6c452bfdec",
+      "id": "v1-brand-fr",
+      "name": "brand",
+      "category": "brand",
+      "locale": "fr",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-it.mp4",
+      "bytes": 5478501,
+      "sha256": "f80f0f5bb3932eb2ef24a3d00896eb4ca2fa8c1bdee58163116a25e2e39dd7ca",
+      "id": "v1-brand-it",
+      "name": "brand",
+      "category": "brand",
+      "locale": "it",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-ja.mp4",
+      "bytes": 5568662,
+      "sha256": "c6ff9915d2e266e6082990f33f0ff13bff8c65be57c8570bc29ad6672757ff7e",
+      "id": "v1-brand-ja",
+      "name": "brand",
+      "category": "brand",
+      "locale": "ja",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-ko.mp4",
+      "bytes": 5580494,
+      "sha256": "7bc55169de27250eadb5d92bd120292e0ef1d1a545b78da8a763a22469a3f3b7",
+      "id": "v1-brand-ko",
+      "name": "brand",
+      "category": "brand",
+      "locale": "ko",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-zh.mp4",
+      "bytes": 5595766,
+      "sha256": "32b3da3d37063f9875050d0ecacf5a843826c5e23f1fc8f778ae88043707f7d7",
+      "id": "v1-brand-zh",
+      "name": "brand",
+      "category": "brand",
+      "locale": "zh",
+      "duration": 30.06,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v1-brand.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-datachart.mp4",
+      "bytes": 2189514,
+      "sha256": "f4b949615c1c893c0da6c60ff051fcc31db49734342320cdca2467ba6d64ec6d",
+      "id": "v2-datachart",
+      "name": "datachart",
+      "category": "workspaces",
+      "locale": null,
+      "duration": 28.4,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v2-datachart.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-flowchart.mp4",
+      "bytes": 2018397,
+      "sha256": "3923b72175c04a6d0db425b64cabc4c0493fa7ff42c5531fafe8b3cd96826bc7",
+      "id": "v2-flowchart",
+      "name": "flowchart",
+      "category": "workspaces",
+      "locale": null,
+      "duration": 20.1,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v2-flowchart.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-illustration.mp4",
+      "bytes": 2566744,
+      "sha256": "db1341136606a94fc19c3e3ce5276267a0a8c9a2f488a48e9000a091521f9e9f",
+      "id": "v2-illustration",
+      "name": "illustration",
+      "category": "workspaces",
+      "locale": null,
+      "duration": 22.27,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v2-illustration.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-text-edit.mp4",
+      "bytes": 1923846,
+      "sha256": "7a06b136e41b72c70cdfc7d22cea47d153f111d2d7e83efc541e2f2f63dba262",
+      "id": "v3-text-edit",
+      "name": "textEdit",
+      "category": "editing",
+      "locale": null,
+      "duration": 21.2,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-text-edit.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-recolor.mp4",
+      "bytes": 1252677,
+      "sha256": "aaa30abf366524d90de0d8a43c0deb9687f25b67e8b9a0cb474b90191a1c1a4e",
+      "id": "v3-recolor",
+      "name": "recolor",
+      "category": "editing",
+      "locale": null,
+      "duration": 14.97,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-recolor.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-inpaint.mp4",
+      "bytes": 1662661,
+      "sha256": "a177a1f995771d6a6a45e58d0d01abd36d16943e0e072f624a3b93bbfcb34e97",
+      "id": "v3-inpaint",
+      "name": "inpaint",
+      "category": "editing",
+      "locale": null,
+      "duration": 19.43,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-inpaint.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-upscale.mp4",
+      "bytes": 1894483,
+      "sha256": "2c7ff112f4b402aabe30daf4c202b4e938a56612fd9e9b8c511789a8548e5d58",
+      "id": "v3-upscale",
+      "name": "upscale",
+      "category": "editing",
+      "locale": null,
+      "duration": 14.53,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-upscale.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-canvas.mp4",
+      "bytes": 1639437,
+      "sha256": "3b7e22f47f0cf20764f47c7bd0289cf915ac48f74deb08a90c1b341b84bd887d",
+      "id": "v3-canvas",
+      "name": "canvas",
+      "category": "editing",
+      "locale": null,
+      "duration": 23.0,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-canvas.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-whitebg.mp4",
+      "bytes": 1836801,
+      "sha256": "66e4a38a48998a43cd1919f409c156bbc7235f7d1f1818990609a353345c9588",
+      "id": "v3-whitebg",
+      "name": "whitebg",
+      "category": "editing",
+      "locale": null,
+      "duration": 12.4,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v3-whitebg.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-datachart-tutorial.mp4",
+      "bytes": 8998994,
+      "sha256": "3c701cdc24e6ae850e0cfb5f1063af0987610467a244f3ab54d627c923e45015",
+      "id": "v4-datachart-tutorial",
+      "name": "datachartTutorial",
+      "category": "tutorials",
+      "locale": null,
+      "duration": 63.25,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v4-datachart-tutorial.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-flowchart-tutorial.mp4",
+      "bytes": 8490739,
+      "sha256": "b8bc3b9a231b226cf84a1a2a3b5ed451b2f117b616e6c1c75495d221aaccbd99",
+      "id": "v4-flowchart-tutorial",
+      "name": "flowchartTutorial",
+      "category": "tutorials",
+      "locale": null,
+      "duration": 60.99,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v4-flowchart-tutorial.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-illustration-tutorial.mp4",
+      "bytes": 10770707,
+      "sha256": "2275955818edfce0347f77191efbece9901801567a286ebe3f14291818ed436c",
+      "id": "v4-illustration-tutorial",
+      "name": "illustrationTutorial",
+      "category": "tutorials",
+      "locale": null,
+      "duration": 75.71,
+      "aspectRatio": "16:9",
+      "poster": "/images/media-kit/2026-10/posters/v4-illustration-tutorial.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-de.mp4",
+      "bytes": 7180085,
+      "sha256": "82e12786ea678d6eeb9d3bb7e44f04bffb3cc580e3e702f832e636f1a72aa19a",
+      "id": "v5-vertical-de",
+      "name": "vertical",
+      "category": "social",
+      "locale": "de",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-en.mp4",
+      "bytes": 7172658,
+      "sha256": "2384b57f29e9fd2cd4e5287bcac8f79721dc41bb3381260343dc261e61147eb2",
+      "id": "v5-vertical-en",
+      "name": "vertical",
+      "category": "social",
+      "locale": "en",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-es.mp4",
+      "bytes": 7193631,
+      "sha256": "36507a33a0e77f5b7fb8c075fadeba0ba8ba09d1377f1f15ccccdbec62247f17",
+      "id": "v5-vertical-es",
+      "name": "vertical",
+      "category": "social",
+      "locale": "es",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-fr.mp4",
+      "bytes": 7175876,
+      "sha256": "512e03d66e4b318e3a1329669f60defc318e58368f64cee083b1c43fcdf55a25",
+      "id": "v5-vertical-fr",
+      "name": "vertical",
+      "category": "social",
+      "locale": "fr",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-it.mp4",
+      "bytes": 7173266,
+      "sha256": "7998a15aeff9edfe5d66e33ad353febbd83b565099cf67feb360e35d53952f3c",
+      "id": "v5-vertical-it",
+      "name": "vertical",
+      "category": "social",
+      "locale": "it",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-ja.mp4",
+      "bytes": 7165542,
+      "sha256": "a20e5f7f8b33734d16ec029759180645aaa406baeaec1922b30845f9726c80aa",
+      "id": "v5-vertical-ja",
+      "name": "vertical",
+      "category": "social",
+      "locale": "ja",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-ko.mp4",
+      "bytes": 7175206,
+      "sha256": "cef8750c89654c3698bc791288d2ad8318de1c2585d2cdaafe040a228a01e8c8",
+      "id": "v5-vertical-ko",
+      "name": "vertical",
+      "category": "social",
+      "locale": "ko",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-zh.mp4",
+      "bytes": 7154803,
+      "sha256": "5d32cf56c18666223f6566c6cd0412d05185812d4ffb8434d664143d78cd2fd4",
+      "id": "v5-vertical-zh",
+      "name": "vertical",
+      "category": "social",
+      "locale": "zh",
+      "duration": 17.2,
+      "aspectRatio": "9:16",
+      "poster": "/images/media-kit/2026-10/posters/v5-vertical.jpg"
+    }
+  ],
+  "images": [
+    {
+      "path": "/images/media-kit/2026-10/images/illustration-example.png",
+      "bytes": 2230443,
+      "sha256": "7c6b0ac5a86a1fcbe85cdd509675b8d9f4571a7c0f1bc38d1cdfc83f758762e5",
+      "name": "illustration"
+    },
+    {
+      "path": "/images/media-kit/2026-10/images/datachart-example.png",
+      "bytes": 378821,
+      "sha256": "d2404af4b8cce87b2c36ff2373ccc77b04f8bc93fea85cabf61c7dac5180f247",
+      "name": "datachart"
+    },
+    {
+      "path": "/images/media-kit/2026-10/images/flowchart-example.png",
+      "bytes": 774615,
+      "sha256": "cddf576ce10f59bb4bb4c468827643e10e4ced166a716844b58e3cfc940a0e89",
+      "name": "flowchart"
+    }
+  ],
+  "logos": [
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-icon.svg",
+      "bytes": 972,
+      "sha256": "228e473f471187136e54e2dfa33711435a60867d299c70ef7b6ea6e23caf9348",
+      "name": "logo-icon"
+    },
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-full-dark.svg",
+      "bytes": 1181,
+      "sha256": "90e3383d58c01010a856a152f6ff862fd0f35d9f52e0c8efec26423ca791448c",
+      "name": "logo-full-dark"
+    },
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-full-light.svg",
+      "bytes": 1131,
+      "sha256": "8c718a2ba08b325c407214b2502f0b506cbd3bb033edf27e20d8e01ccf052230",
+      "name": "logo-full-light"
+    }
+  ],
+  "files": [
+    {
+      "path": "/images/media-kit/2026-10/videos/t1-text.mp4",
+      "bytes": 2903978,
+      "sha256": "a7ea997691a069a2c577fb1ffe99ca28daf34ad28dc0ad1ff25d624841cf7621"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t1-text.jpg",
+      "bytes": 221026,
+      "sha256": "21923152f571dc2a10eb94b307c8bfe363966a381dc30fd8f911be05aefb3913"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t2-enhancer.mp4",
+      "bytes": 2504279,
+      "sha256": "69d51b335c3b12f019c8fe0cb98fe7c3022d2cdd986644a6927f950e8721c306"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t2-enhancer.jpg",
+      "bytes": 221663,
+      "sha256": "022eed3332f355b4aede6d560cf3a00696620fa7a827d1fb55b55d7923c08e1a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t3-sketch.mp4",
+      "bytes": 2487889,
+      "sha256": "bdc2e4a2929d9d11e0ac659c2fd854e8f220d909e88e0f8dad975182fcaa0be9"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t3-sketch.jpg",
+      "bytes": 223772,
+      "sha256": "70bc2209d1b6e212569f6e2dc3e547b6290e180dbbabf4a9a7467bc0fedf5e00"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t4-reference.mp4",
+      "bytes": 2947917,
+      "sha256": "e72633a3c77f71d7ebb4aaa813f809e7bcfd1946d0f041ab433a3c05ae62afb1"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t4-reference.jpg",
+      "bytes": 222390,
+      "sha256": "1f7fc5e4983fa1569c49c80ce28ae67cd0f8e4f51d871e88fb8507f60833488a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t5-pdf.mp4",
+      "bytes": 2905335,
+      "sha256": "aa1e78adfcfcc0852a687a5fc10605ca2a058f2d568456d1616102a8eb72850f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t5-pdf.jpg",
+      "bytes": 224870,
+      "sha256": "cd6a691e1800daa363b8ab833b8579666a07567057ad9b251a6dbf1c2be78431"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t6-photo.mp4",
+      "bytes": 2740394,
+      "sha256": "8c9aefc7197b874c17d483529316113edfe7545f3aacd738a4ea3cbb4fa6bbbb"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t6-photo.jpg",
+      "bytes": 220844,
+      "sha256": "7715b71ee78c3eb7b62e4b866e81f2a37e4adb27e9ad1705c7b55dcc08871f01"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/t7-canvas-tutorial.mp4",
+      "bytes": 2899500,
+      "sha256": "ce01bd93f158b9ab3759cfeb392cd71aef00a95a10c70d87d58af141f306c2e3"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/t7-canvas-tutorial.jpg",
+      "bytes": 222942,
+      "sha256": "6547282e2550c0fb702f8b238db2a4b426b44d55c31f63e1de7bf36049abeabf"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-de.mp4",
+      "bytes": 5465899,
+      "sha256": "d1c2a459c0c7f86b05c0004222bc1103eda95488f259888cc5a35563af18f4f4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v1-brand.jpg",
+      "bytes": 135343,
+      "sha256": "f20d43c2445484eb22415eae4d3781092f88df7fb9c905551f74cb8b8507e70f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-en.mp4",
+      "bytes": 5515536,
+      "sha256": "3e97e75728693bbe9b659b4e1a9e30b4397a23abacc4574f6028c8dab4b94f6f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-es.mp4",
+      "bytes": 5499256,
+      "sha256": "9c290fefeff1e9136f624801263111924a299848c9d9bdf003e53b1e49a2058a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-fr.mp4",
+      "bytes": 5484558,
+      "sha256": "c5f86075c5641648abc5a4f78df196891ed13183b12dafb6532dcd6c452bfdec"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-it.mp4",
+      "bytes": 5478501,
+      "sha256": "f80f0f5bb3932eb2ef24a3d00896eb4ca2fa8c1bdee58163116a25e2e39dd7ca"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-ja.mp4",
+      "bytes": 5568662,
+      "sha256": "c6ff9915d2e266e6082990f33f0ff13bff8c65be57c8570bc29ad6672757ff7e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-ko.mp4",
+      "bytes": 5580494,
+      "sha256": "7bc55169de27250eadb5d92bd120292e0ef1d1a545b78da8a763a22469a3f3b7"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v1-brand-zh.mp4",
+      "bytes": 5595766,
+      "sha256": "32b3da3d37063f9875050d0ecacf5a843826c5e23f1fc8f778ae88043707f7d7"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-datachart.mp4",
+      "bytes": 2189514,
+      "sha256": "f4b949615c1c893c0da6c60ff051fcc31db49734342320cdca2467ba6d64ec6d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v2-datachart.jpg",
+      "bytes": 126113,
+      "sha256": "127217cc0be664e14881d79a11fc402def9c108da6d013dacdf760dd072c93ab"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-flowchart.mp4",
+      "bytes": 2018397,
+      "sha256": "3923b72175c04a6d0db425b64cabc4c0493fa7ff42c5531fafe8b3cd96826bc7"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v2-flowchart.jpg",
+      "bytes": 142202,
+      "sha256": "04777048d60515d9f6132972de78a629b9b527ce59ca6039f988a79e21ae22a3"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v2-illustration.mp4",
+      "bytes": 2566744,
+      "sha256": "db1341136606a94fc19c3e3ce5276267a0a8c9a2f488a48e9000a091521f9e9f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v2-illustration.jpg",
+      "bytes": 217590,
+      "sha256": "41d719c8380d8b3a90a9d8731b1185a55f428d321778f8a1e46f275bcff95875"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-text-edit.mp4",
+      "bytes": 1923846,
+      "sha256": "7a06b136e41b72c70cdfc7d22cea47d153f111d2d7e83efc541e2f2f63dba262"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-text-edit.jpg",
+      "bytes": 244912,
+      "sha256": "eb7f05fbff3bb4384c85085290083997b05fc858f59c902bd458d21d4205d551"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-recolor.mp4",
+      "bytes": 1252677,
+      "sha256": "aaa30abf366524d90de0d8a43c0deb9687f25b67e8b9a0cb474b90191a1c1a4e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-recolor.jpg",
+      "bytes": 212142,
+      "sha256": "e96aa05bdd63a66fef9e9efa745975e36be8668ffea0311daeef4cd7c89e99d4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-inpaint.mp4",
+      "bytes": 1662661,
+      "sha256": "a177a1f995771d6a6a45e58d0d01abd36d16943e0e072f624a3b93bbfcb34e97"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-inpaint.jpg",
+      "bytes": 193146,
+      "sha256": "3cdaf1a816836f7e7147f717c877cf31b5c87f63abe9cca0300efeb54cc1bdeb"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-upscale.mp4",
+      "bytes": 1894483,
+      "sha256": "2c7ff112f4b402aabe30daf4c202b4e938a56612fd9e9b8c511789a8548e5d58"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-upscale.jpg",
+      "bytes": 322505,
+      "sha256": "1c8406d00a297d37660db4ac580328458c67dfdc819ac8519db8502564aad2d9"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-canvas.mp4",
+      "bytes": 1639437,
+      "sha256": "3b7e22f47f0cf20764f47c7bd0289cf915ac48f74deb08a90c1b341b84bd887d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-canvas.jpg",
+      "bytes": 248801,
+      "sha256": "31428310251a6282932606006456e5f7b91c06643cbf00055eaf5fd629c48bf4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v3-whitebg.mp4",
+      "bytes": 1836801,
+      "sha256": "66e4a38a48998a43cd1919f409c156bbc7235f7d1f1818990609a353345c9588"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v3-whitebg.jpg",
+      "bytes": 321580,
+      "sha256": "95ba0bccec33f78abe2016fd068e4d4e245bb88d26dbe55fd86f3431d8d02cd9"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-datachart-tutorial.mp4",
+      "bytes": 8998994,
+      "sha256": "3c701cdc24e6ae850e0cfb5f1063af0987610467a244f3ab54d627c923e45015"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v4-datachart-tutorial.jpg",
+      "bytes": 89769,
+      "sha256": "9dff606791d4acfbb36761689bf4ab51decd9581ef388862b5b147e336d6befa"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-flowchart-tutorial.mp4",
+      "bytes": 8490739,
+      "sha256": "b8bc3b9a231b226cf84a1a2a3b5ed451b2f117b616e6c1c75495d221aaccbd99"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v4-flowchart-tutorial.jpg",
+      "bytes": 113769,
+      "sha256": "bc62e931e0ee538e1903cb1c48510d72bbd7a2bda1430cb9103231e154c87d7e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v4-illustration-tutorial.mp4",
+      "bytes": 10770707,
+      "sha256": "2275955818edfce0347f77191efbece9901801567a286ebe3f14291818ed436c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v4-illustration-tutorial.jpg",
+      "bytes": 198120,
+      "sha256": "4decf775db4cc9f8b769a592899b081b88ba7f51b1225aee1a47ec6abe2ccbc5"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-de.mp4",
+      "bytes": 7180085,
+      "sha256": "82e12786ea678d6eeb9d3bb7e44f04bffb3cc580e3e702f832e636f1a72aa19a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/posters/v5-vertical.jpg",
+      "bytes": 163483,
+      "sha256": "6abdc5aa44bf767a3f9b377a8048d82e51a746de6dbbf12dd946697a1b76773b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-en.mp4",
+      "bytes": 7172658,
+      "sha256": "2384b57f29e9fd2cd4e5287bcac8f79721dc41bb3381260343dc261e61147eb2"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-es.mp4",
+      "bytes": 7193631,
+      "sha256": "36507a33a0e77f5b7fb8c075fadeba0ba8ba09d1377f1f15ccccdbec62247f17"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-fr.mp4",
+      "bytes": 7175876,
+      "sha256": "512e03d66e4b318e3a1329669f60defc318e58368f64cee083b1c43fcdf55a25"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-it.mp4",
+      "bytes": 7173266,
+      "sha256": "7998a15aeff9edfe5d66e33ad353febbd83b565099cf67feb360e35d53952f3c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-ja.mp4",
+      "bytes": 7165542,
+      "sha256": "a20e5f7f8b33734d16ec029759180645aaa406baeaec1922b30845f9726c80aa"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-ko.mp4",
+      "bytes": 7175206,
+      "sha256": "cef8750c89654c3698bc791288d2ad8318de1c2585d2cdaafe040a228a01e8c8"
+    },
+    {
+      "path": "/images/media-kit/2026-10/videos/v5-vertical-zh.mp4",
+      "bytes": 7154803,
+      "sha256": "5d32cf56c18666223f6566c6cd0412d05185812d4ffb8434d664143d78cd2fd4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/images/illustration-example.png",
+      "bytes": 2230443,
+      "sha256": "7c6b0ac5a86a1fcbe85cdd509675b8d9f4571a7c0f1bc38d1cdfc83f758762e5"
+    },
+    {
+      "path": "/images/media-kit/2026-10/images/datachart-example.png",
+      "bytes": 378821,
+      "sha256": "d2404af4b8cce87b2c36ff2373ccc77b04f8bc93fea85cabf61c7dac5180f247"
+    },
+    {
+      "path": "/images/media-kit/2026-10/images/flowchart-example.png",
+      "bytes": 774615,
+      "sha256": "cddf576ce10f59bb4bb4c468827643e10e4ced166a716844b58e3cfc940a0e89"
+    },
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-icon.svg",
+      "bytes": 972,
+      "sha256": "228e473f471187136e54e2dfa33711435a60867d299c70ef7b6ea6e23caf9348"
+    },
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-full-dark.svg",
+      "bytes": 1181,
+      "sha256": "90e3383d58c01010a856a152f6ff862fd0f35d9f52e0c8efec26423ca791448c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/logos/logo-full-light.svg",
+      "bytes": 1131,
+      "sha256": "8c718a2ba08b325c407214b2502f0b506cbd3bb033edf27e20d8e01ccf052230"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/text-input.jpg",
+      "bytes": 304574,
+      "sha256": "069b0efae5fe30e988d27ba9a37b5b832a7d3534a51b8819ad0fa41ab96bd6fe"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/text-result.jpg",
+      "bytes": 268680,
+      "sha256": "9374034ada19086620b2c01bfaaab7f3a9c77d71b12cbae1a7e57e6318401cd1"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/enhancer-input.jpg",
+      "bytes": 35046,
+      "sha256": "ddd0d091d216181d4419919487712b0f90ab24688a3f2698706ff574052a1b2e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/enhancer-result.jpg",
+      "bytes": 280340,
+      "sha256": "a8effab1c16c857348e1ca414ac4b15d0da77ba12228bce5a1125063ce3a0cd1"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/sketch-input.jpg",
+      "bytes": 611120,
+      "sha256": "a735476522d2a68b27820f1c7e5c2d718f9468467b83ee1507b6f29e46b9ef68"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/sketch-result.jpg",
+      "bytes": 334807,
+      "sha256": "6506843422c6c2ec0f7f5acb16afa92c48b733dd626d9d71528ec6091acd5f46"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/reference-input.jpg",
+      "bytes": 545217,
+      "sha256": "4a5320e96c1288cc8afccd6d6b986449fce4ff2cc7537f59b2b1adae2189d6a4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/reference-result.jpg",
+      "bytes": 454122,
+      "sha256": "b851354d59d51d068ff245260cddd085643582aa5066917a3ebf34abdf899934"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/pdf-input.jpg",
+      "bytes": 470501,
+      "sha256": "1860b3620dc046731459942d947582cadd8dd1bc0b3dc8017ff3ed76867b6002"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/pdf-result.jpg",
+      "bytes": 621138,
+      "sha256": "39e0f86c338bc5ea18313225b0f64da7caf7167e9f04e19051bbc1802826ea83"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/photo-input.jpg",
+      "bytes": 294054,
+      "sha256": "880b52ae9502e6c5e04641a805eff08b05ea75f59a205e66116f6e30174bd34f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/photo-result.jpg",
+      "bytes": 152496,
+      "sha256": "4828d29654863f176a2f7d0750798581f72f8fd3376a5924cfe6ac7036528db2"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/canvas-input.jpg",
+      "bytes": 340324,
+      "sha256": "bbd8a90d038764335c03d9bfcdbf62e6860124fd2fdccb5b311fa6940bf785f1"
+    },
+    {
+      "path": "/images/media-kit/2026-10/comparisons/canvas-result.jpg",
+      "bytes": 362365,
+      "sha256": "b92447a525490eabf906cbd9c58b957bba244f2337f9bc8ce89e15625ae580bb"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-de.txt",
+      "bytes": 75,
+      "sha256": "fe168066a01162b0c7335a83441ddeda6aa979036080312913962005733101af"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-en.txt",
+      "bytes": 64,
+      "sha256": "30596003c591e91bc31a6e6e2d235698513911da6691f1a3e5db6e4f559a6f51"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-es.txt",
+      "bytes": 79,
+      "sha256": "5ce247ab5066be9c8f21c9112fb022a974207e8558090f0f6f56a7ec66423318"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-fr.txt",
+      "bytes": 78,
+      "sha256": "bedebc21613c7f3370d68d2c292a29cca9a061cc01fc1a873e5c15a0c34d6f3b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-it.txt",
+      "bytes": 83,
+      "sha256": "f84bcfb10f4f9e6c69dd61bcb585a3205bb5c5280ce98a5a35e19423b8d4bad4"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-ja.txt",
+      "bytes": 66,
+      "sha256": "bb0d1155a951ff1230c19b6312bda587a7bb02cfbec4257417560dac6373f38c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-ko.txt",
+      "bytes": 66,
+      "sha256": "8465e4c1517090bb064dec8c5f9f4aac73dfdb72a89bb31ea1f17069be63077f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-zh.txt",
+      "bytes": 60,
+      "sha256": "9ff8235f8ca87fed9dba878113044e286e05d385ba5752c8bba0fa399608cf87"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-de.txt",
+      "bytes": 75,
+      "sha256": "64446e5d62139d4659585bd34bf63f2ef62b72a7e13b193a9307d5b68218b841"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-en.txt",
+      "bytes": 64,
+      "sha256": "f4058eaa9cc655c58c13618a8d5c2a732ff511bb7faf741d58d973798423f922"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-es.txt",
+      "bytes": 79,
+      "sha256": "30aa76b296f1076ebbf5b401f95a1193c4097a59902d3938bc416934838a837d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-fr.txt",
+      "bytes": 78,
+      "sha256": "e30a8d6cf7226f58d9d249fbad42cb170707eff871ff619189eb9a3e214512ea"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-it.txt",
+      "bytes": 83,
+      "sha256": "ee76d2ebcdf0425fd358d6afd3262043231e076dbeef499bdc378dac6c823ae6"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-ja.txt",
+      "bytes": 66,
+      "sha256": "6fa4c669c143dc40de36324d76b475673b11b7347aae5d85e2ce6964f58382ef"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-ko.txt",
+      "bytes": 66,
+      "sha256": "29105d67701837e0f1fb1916087e6244c9dc72d8b5ee82a2df85450c4eb41bf3"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-zh.txt",
+      "bytes": 60,
+      "sha256": "d2a38f4ad688f0abfa8d8fa8058d913a2f7027cac8f3e76e78813509252a8115"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-de.txt",
+      "bytes": 75,
+      "sha256": "71a909e714f6a49109d1da371bf2b3d52c08a56950ed0003d8992ccaa05d6298"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-en.txt",
+      "bytes": 64,
+      "sha256": "9c5195fffde4519865fc15344ffb5cbc96a929d1667cb3d5d7d6797000b3245a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-es.txt",
+      "bytes": 79,
+      "sha256": "3ae4f2f36e2b82d9a67d6abdc0d40f7d4f66f0b6b062f8107a6d6b4561d71a76"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-fr.txt",
+      "bytes": 78,
+      "sha256": "b0e9cf4bd8bcb48faa82a4e2b470911f143bd97744b734b2a4154540c78f6ce8"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-it.txt",
+      "bytes": 83,
+      "sha256": "33d9e3f22d5119032857bb2e69f2d5bb870bc203fef15e33d64f19bab652d218"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-ja.txt",
+      "bytes": 66,
+      "sha256": "a812eb086ba6c104f0b73b9670096405c87f757ebf19921080f8c9b3f96a8805"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-ko.txt",
+      "bytes": 66,
+      "sha256": "900a269971f8601d2a5833349a56c72a656d1055c0097fb863041f0dc67e8d78"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-zh.txt",
+      "bytes": 60,
+      "sha256": "db39c1c39d1e3fb984366bc5759b99adb179471ad4a1968264aeae65f8400d64"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-de.srt",
+      "bytes": 1538,
+      "sha256": "7f5314d1bc631014cac0f246ada36d910cd6af0a039ac64ef65dc541126b564d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-en.srt",
+      "bytes": 1325,
+      "sha256": "5857a6083ca21385733455e8177ee859ca45e98ece940414e951768310a3abad"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-es.srt",
+      "bytes": 1464,
+      "sha256": "c936b192e3247a159297b3b5b03308b2cd364395d75e55eabb164db2a1e5cc85"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-fr.srt",
+      "bytes": 1530,
+      "sha256": "917e4bb82574fcc4761ac4210ef1318fcf159f1b95b21c1a39bdecfbcffedc56"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-it.srt",
+      "bytes": 1427,
+      "sha256": "e49779957f51298f80bebc3ed9fd1f084e8a6b4bd74b2b949bd790fd0ad78dc2"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-ja.srt",
+      "bytes": 1652,
+      "sha256": "68d998a7a4cfc69889f65768bdd68b79c33f924bc32bd8f1a992a2ae997f71e7"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-ko.srt",
+      "bytes": 1572,
+      "sha256": "55c04c63dfff4421c3a7f1d45542d3878553c1d09263f3cb53fca1788f808d22"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-zh.srt",
+      "bytes": 1276,
+      "sha256": "01ebc7e6c3fd7f890bf21889eb2186cb426b2000d71b48ce464ab51134879d50"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-de.srt",
+      "bytes": 1559,
+      "sha256": "c8d0b8d7898380c6b7f3464916421b0b26e1cf71b859eda3072b33edd8cb8332"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-en.srt",
+      "bytes": 1255,
+      "sha256": "a20392e8fc2ad30df4783beacca3017bcf030e7314f899db15d3b2af8170cd50"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-es.srt",
+      "bytes": 1362,
+      "sha256": "a6103ade449baf7d8be1abe3b40a4cdcddf2707fcb3a8fa95e2ead91345c51d5"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-fr.srt",
+      "bytes": 1455,
+      "sha256": "360bf3cfe999d71ada922eef9cd099a76d8d78a1a4f83801c22e4635ad596c1d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-it.srt",
+      "bytes": 1375,
+      "sha256": "a427ce579be0e7df1f04c72bc25770805cad8d460a9203fcaac881577b23293a"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-ja.srt",
+      "bytes": 1669,
+      "sha256": "ba83f8b3018c4dfa28b67b54e40d74302dc7259e47da28c975b6a64171ef4817"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-ko.srt",
+      "bytes": 1615,
+      "sha256": "893b06b2976d3330e60ad1db63f745925947083d7d15bb1cc2cb10cc6b87dd6b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-zh.srt",
+      "bytes": 1334,
+      "sha256": "58d862b68988e855f70772dfd99c2bea41da251f65e73e9065209c9dad89ee02"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-de.srt",
+      "bytes": 1928,
+      "sha256": "19135f6f1f47459801787a2e088328cd19cac99023dd21ca13291dd5fb05fffd"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-en.srt",
+      "bytes": 1598,
+      "sha256": "3b8ec630447cd84f4576c33843b446f03bb33ad1bba4e2b5df391510318b558e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-es.srt",
+      "bytes": 1705,
+      "sha256": "4ddef11ade4710d16d5dee05e3f921ef0b1480e30be8c38780904b7943d14cdf"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-fr.srt",
+      "bytes": 1774,
+      "sha256": "3dfe7bdc48396fd1c9f908bc1d0fc1d5527b8abd4f80f0c7fe11cea98a1899b5"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-it.srt",
+      "bytes": 1716,
+      "sha256": "d4ef4c291468621abeb099e6159d599478d2597398fb7289b211c443d48ce87d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-ja.srt",
+      "bytes": 2070,
+      "sha256": "b3390d81b774a07a93f81e203ab120f0bf309e6a5222cf26c957ee5708d30b63"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-ko.srt",
+      "bytes": 2030,
+      "sha256": "f783544ffd962575d6062b1d8ef7a300d7fb512166d1f992d816955d1bb632e2"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-zh.srt",
+      "bytes": 1598,
+      "sha256": "e250042dd1ad0654b468c4fcd72b9d8e7e1729ab22e969917befae35a17473da"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-de.vtt",
+      "bytes": 1558,
+      "sha256": "3aaf0993141499d5c7bbd026e2845a3e54d512ff8c0fdc8d180e0d21bbfeb1bb"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-en.vtt",
+      "bytes": 1345,
+      "sha256": "c296353fb69f45507fb411b785c2f8f5b27b46e47761bf0a98a7cdfe3870b39c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-es.vtt",
+      "bytes": 1484,
+      "sha256": "d7eac244bb253202103b104f395460de0c95955776af216de01ca46549b664ab"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-fr.vtt",
+      "bytes": 1550,
+      "sha256": "8c42925c2c158d48524bced9bcc592af31922859c37d2a6c84fb6c9343bc6537"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-it.vtt",
+      "bytes": 1447,
+      "sha256": "50ebcd5be40c12c1ce3779070f1396a43f089ba33a29e46b49d288e914be678f"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-ja.vtt",
+      "bytes": 1672,
+      "sha256": "f0773c6eeabe5ed416ec60c8de6bbd44b6a625afa35aeca9409765f869093df6"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-ko.vtt",
+      "bytes": 1592,
+      "sha256": "7b8df192cedd05586795561b7065538a0e3e25e2ad9e66b21111a65e9daf2132"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-zh.vtt",
+      "bytes": 1296,
+      "sha256": "e5b3a8b7497e425c17ebf484f1412200d7f6710fcc65710ec9b088276d4041a6"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-de.vtt",
+      "bytes": 1579,
+      "sha256": "7aaa9156309c145800a0598734dd1ecef4f8cd5386dc7daf46d5cb55a79264da"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-en.vtt",
+      "bytes": 1275,
+      "sha256": "7889987ff537dc823fcd8462abc2ca4fa9b038395496ff4ed91189517a753a38"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-es.vtt",
+      "bytes": 1382,
+      "sha256": "364420326479a6c3f6b7856395f21d34a927a443bc071015161d94f0a7aaba38"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-fr.vtt",
+      "bytes": 1475,
+      "sha256": "4bfea37e8052abbecff35245cf013686f833291f97cee6189a03cae53f5fa5fc"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-it.vtt",
+      "bytes": 1395,
+      "sha256": "0025e96897fcb42484435b564c863dbf5b3514717a907f78eec37d17bf6272c6"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-ja.vtt",
+      "bytes": 1689,
+      "sha256": "c0f899c1c60a68df8d2e81d0d33c59ac4e85c3cebafa98dccb4ce6726ac2bcc2"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-ko.vtt",
+      "bytes": 1635,
+      "sha256": "9de4aa1bc045e35614f1465397a56c3404ad37aa0e7979b850092c08ded35330"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-zh.vtt",
+      "bytes": 1354,
+      "sha256": "17daf97fa16198c6ca8f391fded0608359c2df43faa3219559bc18ca0cd0af48"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-de.vtt",
+      "bytes": 1948,
+      "sha256": "6a3ec49cc2df3f9b061576b8e95b8f5401051e18b556520fb81bb26d9967782c"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-en.vtt",
+      "bytes": 1618,
+      "sha256": "1dc41fe22816731d8f812782442ce545ab02842964086f429d881c0d6c02dd70"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-es.vtt",
+      "bytes": 1725,
+      "sha256": "a07eb6083dd6bacb441448974c09063f4081b914ea04d84e34110422e48a7454"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-fr.vtt",
+      "bytes": 1794,
+      "sha256": "7f985b587932a5c466e7d3b2b40abc32d6a7df923b0166219526f7b117826c02"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-it.vtt",
+      "bytes": 1736,
+      "sha256": "1ef118b7d6d2fdb888834ed364c05f1f36d93313b02565596df849d6df0ed74b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-ja.vtt",
+      "bytes": 2090,
+      "sha256": "4c3f60ceb5f4845c33b59cc04752a0af5cfa8fa8f4fce9edbeb6d03162a9db02"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-ko.vtt",
+      "bytes": 2050,
+      "sha256": "ce5c35404d8bfa691507f87ff6c990ab65887c96099852dfd613678165f45c07"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-zh.vtt",
+      "bytes": 1618,
+      "sha256": "086d66d409afe6dbcbf01a73c3e051baaf8766e44e66834fa7c838018f71227b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-de.vtt",
+      "bytes": 275,
+      "sha256": "c165ea817b011c6e9d397c9c86641b6baa1d8f93b6d2dcc5f53b174582aa9faa"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-en.vtt",
+      "bytes": 264,
+      "sha256": "568fb772fa4a74b2f5594ea7268a4eb7401259f8b79982ab5532f73050e2447e"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-es.vtt",
+      "bytes": 279,
+      "sha256": "557d0a0f88f103f7629a9b4f5b10188a8611c651d8a532694dab759cd52b45bf"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-fr.vtt",
+      "bytes": 278,
+      "sha256": "13291e2998b45f2d06df50deaa59121367f91813c45a5a6601ce6fe1315fd9d8"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-it.vtt",
+      "bytes": 283,
+      "sha256": "a130cef8440d97cac7fcefe59646975b8cd5aca628a72f536a72f890b2b408be"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-ja.vtt",
+      "bytes": 266,
+      "sha256": "dc29b667e38dafa15c5f4ee166e604bbb3582460c826effc48b38fd54dd364a6"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-ko.vtt",
+      "bytes": 266,
+      "sha256": "7d44a6abbb64a256fc2bbf1a88811877eaa5be998f0f131e73e11f9686f78b7b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-datachart-fulltutorial-63s-16x9-chapters-zh.vtt",
+      "bytes": 260,
+      "sha256": "144689f3d61c7ecad3000a608f28ac2925af00f983080513c526ec713a989416"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-de.vtt",
+      "bytes": 275,
+      "sha256": "d8943e8e66f24b1a8906ae4068d73735d01fda7c6b5262f2d3fd0b6998111447"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-en.vtt",
+      "bytes": 264,
+      "sha256": "4df566cd163760f69d5f3ce9b6ae150668c70e4bea9d761073f59dd5147fa647"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-es.vtt",
+      "bytes": 279,
+      "sha256": "35639b1683be8b34ad014f0624eb30d34293730b88e48910869791ba6320def8"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-fr.vtt",
+      "bytes": 278,
+      "sha256": "b848ff8079b9c7ea29e5ed064b09f8729831bda50bca8e2f713b9470a586c749"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-it.vtt",
+      "bytes": 283,
+      "sha256": "5b03a958980d94c50153bd2ac0773c84ffd73387a86eb6ebc7e2787aae45a13b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-ja.vtt",
+      "bytes": 266,
+      "sha256": "66c6292f71ad58a7c0a6e385bd767068ead4d8fba68cc2c76dd98d4c847565eb"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-ko.vtt",
+      "bytes": 266,
+      "sha256": "655bf2b4be7c2e865878f8c92e6211879a1eb80bda7a7d307c540cb774a1758b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-flowchart-fulltutorial-61s-16x9-chapters-zh.vtt",
+      "bytes": 260,
+      "sha256": "10dad4aa0c1e5ca12b9454161f073d17f3d1a06f4dc93746e7e1395b34195736"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-de.vtt",
+      "bytes": 275,
+      "sha256": "ef8859cf2d6da3d0f652ca67749117611223b82b5baeedf473bf2e27877ad345"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-en.vtt",
+      "bytes": 264,
+      "sha256": "406d661b97d41eec6097d34c4df4aa1b15913c6afb788679bc7b898816e935f0"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-es.vtt",
+      "bytes": 279,
+      "sha256": "e371e92894a69472024aede918269cf6db03976fb89ff20be826f1c036df4365"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-fr.vtt",
+      "bytes": 278,
+      "sha256": "7df47774c6d3cdecbd8877b01eacc667a7423ac8a18630a7110114a9f2b4d314"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-it.vtt",
+      "bytes": 283,
+      "sha256": "05e07bfcbc3611d1e321c451a994f423668db4fa9783211df460cd9d80082054"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-ja.vtt",
+      "bytes": 266,
+      "sha256": "735729abd5927d19d254a6ff66dc73b83fb5002669ecf6650d79563f7a107a7b"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-ko.vtt",
+      "bytes": 266,
+      "sha256": "9c5b25f64eeb6525567eea265aec359eeff8355bbb9b08614599d15c9c3fbc7d"
+    },
+    {
+      "path": "/images/media-kit/2026-10/captions/scifig-v4-illustration-fulltutorial-76s-16x9-chapters-zh.vtt",
+      "bytes": 260,
+      "sha256": "fe7847b6fdd255aeb3800362176c830ef1a2dd975f4bbb19f9c5d1f21a7b382a"
+    }
+  ]
+}
