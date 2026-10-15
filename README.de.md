@@ -44,6 +44,12 @@ Diese Eingaben sind synthetische Lehrbeispiele, keine experimentellen Belege. Di
 
 ## Öffentliche Ressourcen
 
+### API- und MCP-Plugin von SciFig
+
+Verbinden Sie Ihren KI-Assistenten mit SciFig, um wissenschaftliche Illustrationen, Diagramme und bearbeitbare Flussdiagramme zu erstellen. Verfeinern und exportieren Sie die Ergebnisse anschließend mit Ihrem SciFig-Konto.
+
+[API- und MCP-Plugin von SciFig](https://github.com/lilingm963/scifig-plugins)
+
 ### Poster- und Präsentationsvorlagen
 
 Durchsuchen Sie 154 PPTX-Dateien nach Druckformat oder Vortragsart. Sehen Sie sich die Layouts an und prüfen Sie die Vorlagenlizenz.
@@ -61,6 +67,15 @@ Strukturieren Sie Abbildungen und formulieren Sie Prompts in einem Agenten. Die 
 35 fertige Videos, lokalisierte Pakete, Untertitel und Produktvorschauen. Die Dateien bleiben auf dem offiziellen CDN; dieses Repository bietet den Katalog und Nutzungshinweise.
 
 [Offizielle Medienbibliothek](docs/media-library.de.md)
+
+## SciFig mit Code und KI-Assistenten nutzen
+
+Binden Sie die Arbeitsbereiche Illustrationen, Datendiagramme und Flussdiagramme über die öffentliche API und den Remote-MCP-Server in Ihre Forschung ein. Nutzen Sie für die Erstellung, Bearbeitung und den Export dasselbe SciFig-Konto und Credit-Guthaben.
+
+- [Offizielles Plugin entdecken](https://github.com/lilingm963/scifig-plugins)
+- [Überblick über API und MCP](https://scifig.ai/de/developers)
+- [MCP-Installationsanleitung](https://scifig.ai/de/developers/mcp/install.md)
+- [API-Referenz](https://scifig.ai/de/docs/api)
 
 ## Die Person hinter SciFig
 

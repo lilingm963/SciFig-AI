@@ -44,6 +44,12 @@ SciFig 将 Illustration、DataChart 和 FlowChart 汇集到一个科研表达平
 
 ## 公开资源
 
+### SciFig API 与 MCP 插件
+
+将 AI 助手连接到 SciFig，创建科研插图、图表和可编辑的流程图，再通过你的 SciFig 账号完善并导出成果。
+
+[SciFig API 与 MCP 插件](https://github.com/lilingm963/scifig-plugins)
+
 ### 海报与演示模板
 
 按印刷尺寸或汇报用途浏览 154 个 PPTX 文件。预览布局，使用前查看模板许可。
@@ -61,6 +67,15 @@ SciFig 将 Illustration、DataChart 和 FlowChart 汇集到一个科研表达平
 35 条成品视频、多语言素材包、字幕和产品预览。文件保留在官方 CDN，本仓库提供目录和使用说明。
 
 [官方素材库](docs/media-library.zh.md)
+
+## 通过代码和 AI 助手使用 SciFig
+
+通过公开 API 和远程 MCP 服务器，将科研插图、数据图表和流程图三个工作台接入研究流程。使用同一个 SciFig 账号和积分余额完成生成、编辑和导出。
+
+- [探索官方插件](https://github.com/lilingm963/scifig-plugins)
+- [API 与 MCP 概览](https://scifig.ai/zh/developers)
+- [MCP 安装指南](https://scifig.ai/zh/developers/mcp/install.md)
+- [API 参考文档](https://scifig.ai/zh/docs/api)
 
 ## SciFig 的开发者
 

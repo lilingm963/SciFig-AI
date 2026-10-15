@@ -44,6 +44,12 @@ SciFig は Illustration、DataChart、FlowChart を一つの科学コミュニ�
 
 ## 公開リソース
 
+### SciFig API・MCP プラグイン
+
+AI アシスタントを SciFig に接続し、科学イラスト、グラフ、編集可能なフローチャートを作成。SciFig アカウントで仕上げの編集やエクスポートまで進められます。
+
+[SciFig API・MCP プラグイン](https://github.com/lilingm963/scifig-plugins)
+
 ### ポスター・プレゼンテーション用テンプレート
 
 印刷サイズや発表の目的に応じて154点の PPTX を探せます。レイアウトを確認し、利用前にテンプレートのライセンスをお読みください。
@@ -61,6 +67,15 @@ SciFig は Illustration、DataChart、FlowChart を一つの科学コミュニ�
 完成動画35本、各言語の素材パック、字幕、製品プレビューをまとめています。ファイルは公式 CDN に置き、このリポジトリで一覧と利用案内を提供します。
 
 [公式メディアライブラリ](docs/media-library.ja.md)
+
+## コードや AI アシスタントから SciFig を使う
+
+公開 API とリモート MCP サーバーを通じて、科学イラスト、データグラフ、フローチャートの各ワークスペースを研究のワークフローに組み込めます。同じ SciFig アカウントとクレジット残高で生成・編集・エクスポートができます。
+
+- [公式プラグインを見る](https://github.com/lilingm963/scifig-plugins)
+- [API・MCP の概要](https://scifig.ai/ja/developers)
+- [MCP インストールガイド](https://scifig.ai/ja/developers/mcp/install.md)
+- [API リファレンス](https://scifig.ai/ja/docs/api)
 
 ## SciFig の開発者
 

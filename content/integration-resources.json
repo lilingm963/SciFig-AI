@@ -1,0 +1,82 @@
+{
+  "en": {
+    "integrationTitle": "Use SciFig with code and AI assistants",
+    "integrationBody": "Bring Illustration, DataChart and FlowChart into your research workflow through the public API and remote MCP server. Generate, edit and export with the same SciFig account and credit balance.",
+    "pluginTitle": "SciFig API & MCP plugin",
+    "pluginBody": "Connect your AI assistant to SciFig to create scientific illustrations, charts and graphs, and editable flowcharts, then refine and export the results with your SciFig account.",
+    "pluginAction": "Explore the official plugin",
+    "developersAction": "API & MCP overview",
+    "installAction": "MCP installation guide",
+    "apiAction": "API reference"
+  },
+  "zh": {
+    "integrationTitle": "通过代码和 AI 助手使用 SciFig",
+    "integrationBody": "通过公开 API 和远程 MCP 服务器，将科研插图、数据图表和流程图三个工作台接入研究流程。使用同一个 SciFig 账号和积分余额完成生成、编辑和导出。",
+    "pluginTitle": "SciFig API 与 MCP 插件",
+    "pluginBody": "将 AI 助手连接到 SciFig，创建科研插图、图表和可编辑的流程图，再通过你的 SciFig 账号完善并导出成果。",
+    "pluginAction": "探索官方插件",
+    "developersAction": "API 与 MCP 概览",
+    "installAction": "MCP 安装指南",
+    "apiAction": "API 参考文档"
+  },
+  "fr": {
+    "integrationTitle": "Utiliser SciFig avec du code et des assistants IA",
+    "integrationBody": "Intégrez les espaces Illustrations, Graphiques et Diagrammes de flux à votre travail de recherche grâce à l’API publique et au serveur MCP distant. Générez, modifiez et exportez avec le même compte SciFig et le même solde de crédits.",
+    "pluginTitle": "Plugin API et MCP de SciFig",
+    "pluginBody": "Connectez votre assistant IA à SciFig pour créer des illustrations scientifiques, des graphiques et des logigrammes modifiables, puis affinez et exportez les résultats avec votre compte SciFig.",
+    "pluginAction": "Découvrir le plugin officiel",
+    "developersAction": "Présentation de l’API et du MCP",
+    "installAction": "Guide d’installation MCP",
+    "apiAction": "Référence de l’API"
+  },
+  "es": {
+    "integrationTitle": "Usa SciFig con código y asistentes de IA",
+    "integrationBody": "Integra los espacios Ilustraciones, Gráficos y Diagramas de flujo en tu trabajo de investigación mediante la API pública y el servidor MCP remoto. Genera, edita y exporta con la misma cuenta de SciFig y el mismo saldo de créditos.",
+    "pluginTitle": "Plugin de API y MCP de SciFig",
+    "pluginBody": "Conecta tu asistente de IA a SciFig para crear ilustraciones científicas, gráficos y diagramas de flujo editables, y después perfecciona y exporta los resultados con tu cuenta de SciFig.",
+    "pluginAction": "Explorar el plugin oficial",
+    "developersAction": "Introducción a la API y MCP",
+    "installAction": "Guía de instalación de MCP",
+    "apiAction": "Referencia de la API"
+  },
+  "it": {
+    "integrationTitle": "Usa SciFig con codice e assistenti IA",
+    "integrationBody": "Integra gli spazi Illustrazioni, Grafici e Diagrammi di flusso nel tuo lavoro di ricerca tramite l’API pubblica e il server MCP remoto. Genera, modifica ed esporta con lo stesso account SciFig e lo stesso saldo crediti.",
+    "pluginTitle": "Plugin API e MCP di SciFig",
+    "pluginBody": "Collega il tuo assistente IA a SciFig per creare illustrazioni scientifiche, grafici e diagrammi di flusso modificabili, quindi perfeziona ed esporta i risultati con il tuo account SciFig.",
+    "pluginAction": "Scopri il plugin ufficiale",
+    "developersAction": "Panoramica di API e MCP",
+    "installAction": "Guida all’installazione MCP",
+    "apiAction": "Riferimento API"
+  },
+  "de": {
+    "integrationTitle": "SciFig mit Code und KI-Assistenten nutzen",
+    "integrationBody": "Binden Sie die Arbeitsbereiche Illustrationen, Datendiagramme und Flussdiagramme über die öffentliche API und den Remote-MCP-Server in Ihre Forschung ein. Nutzen Sie für die Erstellung, Bearbeitung und den Export dasselbe SciFig-Konto und Credit-Guthaben.",
+    "pluginTitle": "API- und MCP-Plugin von SciFig",
+    "pluginBody": "Verbinden Sie Ihren KI-Assistenten mit SciFig, um wissenschaftliche Illustrationen, Diagramme und bearbeitbare Flussdiagramme zu erstellen. Verfeinern und exportieren Sie die Ergebnisse anschließend mit Ihrem SciFig-Konto.",
+    "pluginAction": "Offizielles Plugin entdecken",
+    "developersAction": "Überblick über API und MCP",
+    "installAction": "MCP-Installationsanleitung",
+    "apiAction": "API-Referenz"
+  },
+  "ja": {
+    "integrationTitle": "コードや AI アシスタントから SciFig を使う",
+    "integrationBody": "公開 API とリモート MCP サーバーを通じて、科学イラスト、データグラフ、フローチャートの各ワークスペースを研究のワークフローに組み込めます。同じ SciFig アカウントとクレジット残高で生成・編集・エクスポートができます。",
+    "pluginTitle": "SciFig API・MCP プラグイン",
+    "pluginBody": "AI アシスタントを SciFig に接続し、科学イラスト、グラフ、編集可能なフローチャートを作成。SciFig アカウントで仕上げの編集やエクスポートまで進められます。",
+    "pluginAction": "公式プラグインを見る",
+    "developersAction": "API・MCP の概要",
+    "installAction": "MCP インストールガイド",
+    "apiAction": "API リファレンス"
+  },
+  "ko": {
+    "integrationTitle": "코드와 AI 어시스턴트로 SciFig 사용하기",
+    "integrationBody": "공개 API와 원격 MCP 서버를 통해 과학 그림, 데이터 차트, 순서도 작업 공간을 연구 워크플로에 연결하세요. 동일한 SciFig 계정과 크레딧 잔액으로 생성, 편집, 내보내기를 할 수 있습니다.",
+    "pluginTitle": "SciFig API 및 MCP 플러그인",
+    "pluginBody": "AI 어시스턴트를 SciFig에 연결해 과학 그림, 그래프, 편집 가능한 순서도를 만들고, SciFig 계정으로 결과를 다듬고 내보내세요.",
+    "pluginAction": "공식 플러그인 살펴보기",
+    "developersAction": "API 및 MCP 개요",
+    "installAction": "MCP 설치 가이드",
+    "apiAction": "API 참조 문서"
+  }
+}

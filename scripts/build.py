@@ -21,6 +21,8 @@ REPO = 'https://github.com/lilingm963/SciFig-AI'
 TEMPLATES = 'https://github.com/scifig-ai/scientific-poster-and-presentation-templates'
 SKILL = 'https://github.com/lilingm963/scifig-ai-scientific-figure-skill'
 BASE = 'https://lilingm963.github.io/SciFig-AI/'
+PLUGIN = 'https://github.com/lilingm963/scifig-plugins'
+INTEGRATIONS = json.loads((ROOT/'content/integration-resources.json').read_text())
 def suffix(locale): return '' if locale=='en' else '.'+locale
 def web(locale,path=''): return 'https://scifig.ai/'+('' if locale=='en' else locale+'/')+path+'?ref=github-resources'
 def md(text,url): return f'[{text}]({url})'
@@ -31,7 +33,7 @@ def write(path,text):
 def link(text,url,cls=''): return f'<a class="{cls}" href="{html.escape(url,quote=True)}">{html.escape(text)}</a>'
 def p(text): return '<p>'+html.escape(text)+'</p>'
 for locale,t in CONTENT.items():
-    s=suffix(locale); ui=UI[locale]; prefix="" if locale=="en" else "../"
+    s=suffix(locale); ui=UI[locale]; integration=INTEGRATIONS[locale]; prefix="" if locale=="en" else "../"
     root = f'# SciFig\n\n{langnav()}\n\n## {t["headline"]}\n\n{t["intro"]}\n\n'+md(t['start'],web(locale))+' · '+md(ui['tutorialLink'],web(locale,'tutorials'))+' · '+md(t['media'],'docs/media-library'+s+'.md')+'\n\n'
     root += f'## {t["workspace"]}\n\n'
     cards=[]
@@ -40,8 +42,10 @@ for locale,t in CONTENT.items():
         root += f'### {name}\n\n{t[key]}\n\n'+f'[![{ui["videoNames"][key+"Tutorial"]}](assets/previews/{key}.jpg)]({CDN+video["path"]})\n\n'+md(t['workflow'],CDN+video['path'])+' · '+md(ui['tutorialLink'],web(locale,'tutorials'))+'\n\n'
         cards.append(f'<article><a href="{CDN+video["path"]}"><img src="{prefix}assets/previews/{key}.jpg" alt="{html.escape(ui["videoNames"][key+"Tutorial"],quote=True)}" width="640" height="360" loading="lazy"></a><div><h3>{name}</h3>{p(t[key])}{link(t["workflow"],CDN+video["path"])}</div></article>')
     root += t['review']+'\n\n'+f'## {t["examples"]}\n\n{t["synthetic"]}\n\n'+md(t['examples'],'examples/README'+s+'.md')+'\n\n'
-    resources=[(t['templates'],t['templateBody'],TEMPLATES),(t['skill'],t['skillBody'],SKILL),(t['media'],t['mediaBody'],'docs/media-library'+s+'.md')]
+    resources=[(integration['pluginTitle'],integration['pluginBody'],PLUGIN),(t['templates'],t['templateBody'],TEMPLATES),(t['skill'],t['skillBody'],SKILL),(t['media'],t['mediaBody'],'docs/media-library'+s+'.md')]
     root += f'## {t["resources"]}\n\n'+''.join(f'### {title}\n\n{body}\n\n'+md(title,url)+'\n\n' for title,body,url in resources)
+    integration_links=[(integration['pluginAction'],PLUGIN),(integration['developersAction'],'https://scifig.ai/'+('' if locale=='en' else locale+'/')+'developers'),(integration['installAction'],'https://scifig.ai/'+('' if locale=='en' else locale+'/')+'developers/mcp/install.md'),(integration['apiAction'],'https://scifig.ai/'+('' if locale=='en' else locale+'/')+'docs/api')]
+    root += f'## {integration["integrationTitle"]}\n\n{integration["integrationBody"]}\n\n'+'\n'.join('- '+md(title,url) for title,url in integration_links)+'\n\n'
     root += f'## {t["author"]}\n\n{t["bio"]}\n\n'+md(t['about'],web(locale,'about'))+'\n\n'+f'## {t["license"]}\n\n{t["licenseBody"]}\n\n'+md(ui['licenseTitle'],web(locale,'media-kit')+'#usage')+' · '+md('MIT',SKILL+'/blob/main/LICENSE')+' · '+md(t['templates'],TEMPLATES+'/blob/main/LICENSE')+'\n\n'+f'## {t["feedback"]}\n\n{t["feedbackBody"]}\n\n'+md(t['feedback'],REPO+'/issues')+' · '+md(t['feedback'],web(locale,'contact'))+'\n\n'+f'## {t["updates"]}\n\n{t["updateBody"]}'
     write('README'+s+'.md',root)
     example=f'# {t["examples"]}\n\n{langnav()}\n\n{t["synthetic"]}\n\n'
@@ -71,8 +75,12 @@ for locale,t in CONTENT.items():
     resourcehtml=''.join('<article class="resource"><div><h3>'+link(title, url if url.startswith('http') else REPO+'/blob/main/'+url)+'</h3>'+p(body)+'</div></article>' for title,body,url in resources)
     page=f'''<!doctype html><html lang="{locale if locale!='zh' else 'zh-Hans'}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SciFig — {html.escape(t['headline'])}</title><meta name="description" content="{html.escape(t['intro'],quote=True)}"><link rel="stylesheet" href="{prefix}assets/hub.css"><link rel="canonical" href="{BASE+('' if locale=='en' else locale+'/')}">'''
     page+=''.join(f'<link rel="alternate" hreflang="{l if l!="zh" else "zh-Hans"}" href="{BASE+("" if l=="en" else l+"/")}">' for l in LOCALES)+f'<link rel="alternate" hreflang="x-default" href="{BASE}"></head><body><header><a class="brand" href="{prefix or "./"}">SciFig<span> / {html.escape(t["resources"])}</span></a><nav aria-label="{html.escape(t["languageLabel"],quote=True)}">{langs}</nav></header><main><section class="hero"><div class="eyebrow">{html.escape(ui["eyebrow"])}</div><h1>{html.escape(t["headline"])}</h1>{p(t["intro"])}<div class="actions">{link(t["start"],web(locale),"primary")}{link(t["examples"],REPO+"/blob/main/examples/README"+s+".md")}</div></section><section><h2>{html.escape(t["workspace"])}</h2><div class="grid">{"".join(cards)}</div><div class="note">{p(t["review"])}</div></section><section><h2>{html.escape(t["resources"])}</h2><div class="grid">{resourcehtml}</div></section><section class="split"><div><h2>{html.escape(t["author"])}</h2>{p(t["bio"])}{link(t["about"],web(locale,"about"))}</div><div class="note"><h2>{html.escape(t["updates"])}</h2>{p(t["updateBody"])}</div></section><section><h2>{html.escape(t["license"])}</h2>{p(t["licenseBody"])}{link(ui["licenseTitle"],web(locale,"media-kit"))}</section></main><footer>{p(t["feedbackBody"])}{link(t["feedback"],REPO+"/issues")} · {link("GitHub",REPO)} · {link(ui["tutorialLink"],web(locale,"tutorials"))}</footer></body></html>'
+    integrationhtml='<section><h2>'+html.escape(integration['integrationTitle'])+'</h2>'+p(integration['integrationBody'])+'<div class="actions">'+''.join(link(title,url) for title,url in integration_links)+'</div></section>'
+    page=page.replace('<section class="split">',integrationhtml+'<section class="split">')
     write(('' if locale=='en' else locale+'/')+'index.html',page)
 write('docs/media-naming.json',json.dumps([{'id':v['id'],'cdnPath':v['path'],'downloadName':'scifig-'+re.sub(r'(?<!^)(?=[A-Z])','-',v['name']).lower()+'-'+v['aspectRatio'].replace(':','x')+(('-'+v['locale']) if v['locale'] else '')+'-2026-10.mp4','sha256':v['sha256']} for v in MEDIA['videos']],ensure_ascii=False,indent=2))
 write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+BASE+('' if l=='en' else l+'/')+'</loc></url>' for l in LOCALES)+'</urlset>')
 write('llms.txt','# SciFig\n\nAI-assisted scientific illustrations, data charts and structured flowcharts.\n\n## Public resources\n- [Official platform](https://scifig.ai/)\n- [Three synthetic teaching examples]('+REPO+'/tree/main/examples)\n- [Media library]('+REPO+'/blob/main/docs/media-library.md)\n- [Templates]('+TEMPLATES+')\n- [Scientific Figure Skill]('+SKILL+')\n\nReview scientific content and sources. Editing/export varies by workflow. Media, templates and Skill have separate licenses. The Skill does not call a SciFig API. No blanket scientific-accuracy or journal-acceptance claim is made.\n')
+with (ROOT/'llms.txt').open('a') as output:
+    output.write('\n## API and MCP integrations\n- [Official SciFig plugin]('+PLUGIN+')\n- [API and MCP overview](https://scifig.ai/developers)\n- [MCP installation guide](https://scifig.ai/developers/mcp/install.md)\n')
 print(f'Generated {len(LOCALES)} languages with {len(CONTENT["en"])} source keys and {len(MEDIA["videos"])} videos.')

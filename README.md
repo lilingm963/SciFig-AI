@@ -44,6 +44,12 @@ These inputs are synthetic teaching examples, not experimental evidence. The tut
 
 ## Public resources
 
+### SciFig API & MCP plugin
+
+Connect your AI assistant to SciFig to create scientific illustrations, charts and graphs, and editable flowcharts, then refine and export the results with your SciFig account.
+
+[SciFig API & MCP plugin](https://github.com/lilingm963/scifig-plugins)
+
 ### Poster and presentation templates
 
 Browse 154 PPTX files by print size or presentation purpose. Preview the layouts and check the template license before reuse.
@@ -61,6 +67,15 @@ Structure a figure and prepare prompts in an agent. Generation uses the agent’
 35 finished videos, localized packs, captions and product previews. Files stay on the official CDN; this repository provides the catalog and usage guidance.
 
 [Official media library](docs/media-library.md)
+
+## Use SciFig with code and AI assistants
+
+Bring Illustration, DataChart and FlowChart into your research workflow through the public API and remote MCP server. Generate, edit and export with the same SciFig account and credit balance.
+
+- [Explore the official plugin](https://github.com/lilingm963/scifig-plugins)
+- [API & MCP overview](https://scifig.ai/developers)
+- [MCP installation guide](https://scifig.ai/developers/mcp/install.md)
+- [API reference](https://scifig.ai/docs/api)
 
 ## The person behind SciFig
 

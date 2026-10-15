@@ -44,6 +44,12 @@ Questi input sono esempi didattici sintetici, non prove sperimentali. Le antepri
 
 ## Risorse pubbliche
 
+### Plugin API e MCP di SciFig
+
+Collega il tuo assistente IA a SciFig per creare illustrazioni scientifiche, grafici e diagrammi di flusso modificabili, quindi perfeziona ed esporta i risultati con il tuo account SciFig.
+
+[Plugin API e MCP di SciFig](https://github.com/lilingm963/scifig-plugins)
+
 ### Modelli per poster e presentazioni
 
 Sfoglia 154 file PPTX per formato di stampa o tipo di presentazione. Guarda le anteprime e consulta la licenza prima dell’uso.
@@ -61,6 +67,15 @@ Struttura una figura e prepara i prompt in un agente. La generazione usa il suo 
 35 video finali, pacchetti localizzati, sottotitoli e anteprime del prodotto. I file restano sul CDN ufficiale; questo repository offre il catalogo e le indicazioni d’uso.
 
 [Raccolta multimediale ufficiale](docs/media-library.it.md)
+
+## Usa SciFig con codice e assistenti IA
+
+Integra gli spazi Illustrazioni, Grafici e Diagrammi di flusso nel tuo lavoro di ricerca tramite l’API pubblica e il server MCP remoto. Genera, modifica ed esporta con lo stesso account SciFig e lo stesso saldo crediti.
+
+- [Scopri il plugin ufficiale](https://github.com/lilingm963/scifig-plugins)
+- [Panoramica di API e MCP](https://scifig.ai/it/developers)
+- [Guida all’installazione MCP](https://scifig.ai/it/developers/mcp/install.md)
+- [Riferimento API](https://scifig.ai/it/docs/api)
 
 ## Chi sviluppa SciFig
 

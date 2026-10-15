@@ -10,3 +10,8 @@ AI-assisted scientific illustrations, data charts and structured flowcharts.
 - [Scientific Figure Skill](https://github.com/lilingm963/scifig-ai-scientific-figure-skill)
 
 Review scientific content and sources. Editing/export varies by workflow. Media, templates and Skill have separate licenses. The Skill does not call a SciFig API. No blanket scientific-accuracy or journal-acceptance claim is made.
+
+## API and MCP integrations
+- [Official SciFig plugin](https://github.com/lilingm963/scifig-plugins)
+- [API and MCP overview](https://scifig.ai/developers)
+- [MCP installation guide](https://scifig.ai/developers/mcp/install.md)
